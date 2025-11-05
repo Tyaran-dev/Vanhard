@@ -1,0 +1,577 @@
+{
+  "FullScreenSlider": {
+    "slide1": {
+      "title": {
+        "line1": "YOUR CLOUD.",
+        "line2": "YOUR RULES."
+      },
+      "tags": ["Private Infrastructure", "Delivered"],
+      "button": "EXPLORE SERVICES"
+    },
+    "slide2": {
+      "title": {
+        "line1": "SECURE HOSTING.",
+        "line2": "UNLIMITED SCALE."
+      },
+      "tags": ["Enterprise Solutions", "Optimized"],
+      "button": "VIEW SOLUTIONS"
+    }
+  },
+  "Navigation": {
+    "home": "home",
+    "about": "about",
+    "services": "services",
+    "pricing": "pricing",
+    "contact": "contact us"
+  },
+  "ProcessSection": {
+    "mainHeading": {
+      "line1": "TAKE OWNERSHIP OF YOUR",
+      "line2": "DIGITAL ENVIRONMENT"
+    },
+    "subheading": "YOUR INFRASTRUCTURE, INSTALLED BY EXPERTS",
+    "step1": {
+      "step": "Step 1",
+      "title": "WE ANALYZE & PLAN"
+    },
+    "step2": {
+      "step": "Step 2",
+      "title": "WE INSTALL & CONFIGURE"
+    },
+    "step3": {
+      "step": "Step 3",
+      "title": "WE SECURE & HAND OVER"
+    }
+  },
+  "ControlFreedomSection": {
+    "control": {
+      "title": "Full Control",
+      "subtitle": "(Your Environment)",
+      "description": "YOU RETAIN FULL CONTROL AND OWNERSHIP. WE DON'T RESELL, LICENSE, OR HOST ANYTHING."
+    },
+    "freedom": {
+      "title": "Full Freedom",
+      "subtitle": "(Your Future)",
+      "description": "EACH SETUP IS DELIVERED WITH CLEAR DOCUMENTATION. YOU ARE FREE TO MAINTAIN, MODIFY, OR SCALE IT AS YOU WISH."
+    }
+  },
+  "VanhardSection": {
+    "companyName": "VANHARD LLC",
+    "heroDescription": "Specialist provider of self-hosted digital infrastructure installation services. Founded in 2024, we serve clients who seek privacy-first, scalable, and vendor-independent solutions.",
+    "established": "Est. 2024 • Privacy-First Solutions",
+    "coreValuesTitle": {
+      "line1": "Our",
+      "line2": "Core",
+      "line3": "Values"
+    },
+    "coreValues": [
+      "Privacy by design",
+      "Self-ownership and autonomy",
+      "Zero vendor lock-in",
+      "Efficiency and performance",
+      "Open standards and transparency"
+    ],
+    "mission": {
+      "title": "Mission Statement",
+      "description": "To enable businesses and individuals to take ownership of their digital environments by delivering secure, high-performance systems engineered for privacy and resilience."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "To be the go-to engineering partner for private, independent, and self-reliant digital operations across the globe."
+    },
+    "servicesTitle": "Service Catalog",
+    "servicesDescription": "Comprehensive digital infrastructure solutions designed for privacy, performance, and complete ownership.",
+    "services": [
+      {
+        "title": "Private Cloud Workspace Deployment",
+        "description": "Secure, scalable file collaboration tools like Nextcloud, fully installed on your infrastructure."
+      },
+      {
+        "title": "Unified Identity & Access System Integration",
+        "description": "Centralized identity management using standards-based tools such as Authentik, LDAP, and OpenID Connect."
+      },
+      {
+        "title": "Remote Access Gateway Installation",
+        "description": "Deploy Guacamole or similar tools to access internal desktops, servers, or files through the browser, anywhere in the world."
+      },
+      {
+        "title": "Infrastructure Hardening & Optimization",
+        "description": "Security-focused system configuration, including firewall setup, SSH key access, kernel hardening, and system tuning."
+      },
+      {
+        "title": "Self-Hosted Mail Server Setup",
+        "description": "Deploy Mailcow or Poste.io with anti-spam, webmail, DKIM, SPF, and secure IMAP/SMTP support."
+      },
+      {
+        "title": "Virtual Workspace Deployment",
+        "description": "Installations of browser-accessible Linux or Windows VMs for secure remote desktop environments."
+      }
+    ],
+    "cta": {
+      "title": "Ready to Own Your Digital Infrastructure?",
+      "description": "Take control of your digital environment with our privacy-first, vendor-independent solutions.",
+      "button": "Get Started Today"
+    }
+  },
+  "ProcessWorkflow": {
+    "header": {
+      "subtitle": "Our Process",
+      "title": "Workflow Excellence",
+      "description": "A systematic approach to delivering world-class infrastructure solutions with precision, security, and reliability at every step."
+    },
+    "steps": [
+      {
+        "title": "Client Provides Infrastructure",
+        "description": "Client provides server, VM, or cloud instance with full access credentials"
+      },
+      {
+        "title": "Installation & Configuration",
+        "description": "VANHARD installs and configures the services with precision and expertise"
+      },
+      {
+        "title": "Hardening & Testing",
+        "description": "Systems are hardened, secured, documented, and thoroughly tested"
+      },
+      {
+        "title": "Documentation Delivery",
+        "description": "Complete credentials and comprehensive documentation delivered securely"
+      },
+      {
+        "title": "Post-Installation Support",
+        "description": "Two revisions included with ongoing support and maintenance"
+      }
+    ],
+    "stepComplete": "Step Complete",
+    "cta": {
+      "text": "Ready to get started?"
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "title": {
+        "line1": "Building a Safer",
+        "line2": "Digital World"
+      },
+      "description": "VANHARD LLC delivers privacy-first, self-hosted digital infrastructure solutions. We enable businesses to take complete ownership of their digital environments with zero vendor lock-in.",
+      "badges": ["Privacy by Design", "Zero Vendor Lock-in"],
+      "cards": [
+        {
+          "title": "Secure Infrastructure",
+          "description": "Enterprise-grade security"
+        },
+        {
+          "title": "Global Access",
+          "description": "Worldwide deployment"
+        }
+      ]
+    },
+    "mission": {
+      "title": {
+        "line1": "Built for Privacy.",
+        "line2": "Backed by Expertise.",
+        "line3": "Enhanced by Innovation."
+      },
+      "description": {
+        "line1": "Founded in 2024, VANHARD LLC specializes in delivering fully installed, production-ready systems that our clients own and control entirely.",
+        "line2": "We're not just a managed service. We are your digital infrastructure partner, empowering you to maintain complete autonomy over your technology stack while ensuring maximum security and performance."
+      },
+      "stats": [
+        "Self-Owned",
+        "Support",
+        {
+          "value": "Zero",
+          "label": "Vendor Lock-in"
+        },
+        "Founded"
+      ]
+    },
+    "values": {
+      "title": {
+        "line1": "Our",
+        "line2": "Core",
+        "line3": "Values"
+      },
+      "subtitle": "Guiding principles that drive everything we do",
+      "items": [
+        {
+          "title": "Privacy First",
+          "description": "We prioritize your privacy above all else, ensuring your data remains under your complete control with no third-party access."
+        },
+        {
+          "title": "Self-Ownership",
+          "description": "Complete autonomy over your digital infrastructure with full administrative access and control."
+        },
+        {
+          "title": "Zero Lock-in",
+          "description": "Open standards and transparent solutions that ensure you're never dependent on proprietary systems."
+        },
+        {
+          "title": "Efficiency",
+          "description": "Optimized performance and streamlined operations that maximize your system's potential."
+        },
+        {
+          "title": "Performance",
+          "description": "High-performance systems engineered for reliability, speed, and scalability."
+        },
+        {
+          "title": "Transparency",
+          "description": "Open standards and clear communication throughout every phase of your project."
+        }
+      ]
+    },
+    "missionVision": {
+      "mission": {
+        "title": "Our Mission",
+        "description": "To enable businesses and individuals to take ownership of their digital environments by delivering secure, high-performance systems engineered for privacy and resilience."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To be the go-to engineering partner for private, independent, and self-reliant digital operations across the globe, empowering organizations to maintain complete digital sovereignty."
+      }
+    },
+    "cta": {
+      "title": "Ready to Take Control of Your Digital Infrastructure?",
+      "description": "Let's discuss how VANHARD LLC can help you achieve complete digital autonomy with our privacy-first, self-hosted solutions.",
+      "buttons": ["Get Started Today", "Schedule Consultation"]
+    }
+  },
+  "AboutTimeline": {
+    "title": "Our journey",
+    "subtitle": "Key milestones on the path to a unified security platform.",
+    "milestones": [
+      {
+        "title": "Company founded",
+        "detail": "Started with a mission to simplify cybersecurity for MSPs."
+      },
+      {
+        "title": "MDR launched",
+        "detail": "Introduced AI‑assisted, human‑led MDR with runbook automation."
+      },
+      {
+        "title": "Multi‑tenant reporting",
+        "detail": "Shipped cross‑client reports and compliance evidence."
+      },
+      {
+        "title": "Global expansion",
+        "detail": "Serving partners in 20+ countries with local support."
+      }
+    ]
+  },
+  "ServicesPage": {
+    "hero": {
+      "badge": "Professional Infrastructure Services",
+      "title": "Service Catalog",
+      "subtitle": {
+        "line1": "Professional infrastructure and security services designed for the modern enterprise.",
+        "highlight": "One-time installations",
+        "line2": "with no monthly fees."
+      },
+      "cta": {
+        "primary": "View Pricing & Packages",
+        "secondary": "Schedule Consultation"
+      }
+    },
+    "benefits": {
+      "title": {
+        "line1": "Why Choose Our",
+        "line2": "Services?"
+      },
+      "items": [
+        {
+          "title": "One-Time Setup",
+          "description": "No recurring monthly fees. Pay once and own your infrastructure forever with complete control."
+        },
+        {
+          "title": "Enterprise Security",
+          "description": "Military-grade security with industry best practices and compliance standards built-in."
+        },
+        {
+          "title": "Full Control",
+          "description": "Complete ownership of your data and infrastructure with no vendor lock-in or dependencies."
+        }
+      ]
+    }
+  },
+  "Services": {
+    "0": {
+      "title": "Private Cloud Workspace Deployment",
+      "description": "Secure, scalable file collaboration tools like Nextcloud, fully installed on your infrastructure.",
+      "features": [
+        "Nextcloud Installation",
+        "File Collaboration",
+        "Secure Infrastructure",
+        "Full Data Control"
+      ],
+      "price": "$700"
+    },
+    "1": {
+      "title": "Unified Identity & Access System Integration",
+      "description": "Centralized identity management using standards-based tools such as Authentik, LDAP, and OpenID Connect.",
+      "features": [
+        "Authentik Setup",
+        "LDAP Integration",
+        "OpenID Connect",
+        "Centralized Management"
+      ],
+      "price": "$900"
+    },
+    "2": {
+      "title": "Remote Access Gateway Installation",
+      "description": "Deploy Guacamole or similar tools to access internal desktops, servers, or files through the browser, anywhere in the world.",
+      "features": [
+        "Guacamole Deployment",
+        "Browser Access",
+        "Global Connectivity",
+        "Secure Remote Desktop"
+      ],
+      "price": "$750"
+    },
+    "3": {
+      "title": "Infrastructure Hardening & Optimization",
+      "description": "Security-focused system configuration, including firewall setup, SSH key access, kernel hardening, and system tuning.",
+      "features": [
+        "Firewall Configuration",
+        "SSH Key Setup",
+        "Kernel Hardening",
+        "System Optimization"
+      ],
+      "price": "$600"
+    },
+    "4": {
+      "title": "Self-Hosted Mail Server Setup",
+      "description": "Deploy Mailcow or Poste.io with anti-spam, webmail, DKIM, SPF, and secure IMAP/SMTP support.",
+      "features": [
+        "Mailcow/Poste.io Setup",
+        "Anti-spam Protection",
+        "DKIM & SPF",
+        "Secure IMAP/SMTP"
+      ],
+      "price": "$900"
+    },
+    "5": {
+      "title": "Virtual Workspace Deployment",
+      "description": "Installations of browser-accessible Linux or Windows VMs for secure remote desktop environments.",
+      "features": [
+        "VM Installation",
+        "Browser Access",
+        "Linux & Windows",
+        "Secure Environment"
+      ],
+      "price": "$1,200"
+    },
+    "6": {
+      "title": "Zero Trust Security Configuration",
+      "description": "Set up policy-driven, identity-aware access to all internal apps and services with minimal attack surface and segmented access.",
+      "features": [
+        "Policy-driven Access",
+        "Identity Awareness",
+        "Minimal Attack Surface",
+        "Access Segmentation"
+      ],
+      "price": "$1,000"
+    }
+  },
+  "PricingPage": {
+    "hero": {
+      "title": {
+        "line1": "Transparent",
+        "line2": "Pricing"
+      },
+      "subtitle": {
+        "line1": "One-time installations. No monthly fees.",
+        "highlight": "Own your infrastructure forever."
+      }
+    },
+    "toggle": {
+      "bundled": "Bundled Packages",
+      "individual": "Individual Services"
+    },
+    "packages": {
+      "popularBadge": "Most Popular",
+      "oneTime": "one-time",
+      "save": "Save",
+      "includes": "Includes:",
+      "cta": "Get Started"
+    },
+    "individual": {
+      "title": {
+        "line1": "Individual Service",
+        "line2": "Pricing"
+      },
+      "subtitle": "Professional infrastructure services with transparent, one-time pricing",
+      "header": {
+        "title": "Service Catalog",
+        "subtitle": "One-time installations with no monthly fees • Complete ownership"
+      },
+      "oneTime": "one-time installation",
+      "footer": {
+        "note": "Need multiple services? Check out our bundled packages for significant savings.",
+        "cta": "View Packages & Save More"
+      }
+    },
+    "valueProposition": {
+      "title": {
+        "line1": "Why Our",
+        "line2": "Pricing Model",
+        "line3": "Works"
+      },
+      "items": [
+        {
+          "title": "No Recurring Fees",
+          "description": "Pay once and own your infrastructure forever. No monthly subscriptions or hidden costs."
+        },
+        {
+          "title": "Complete Ownership",
+          "description": "Your data stays on your infrastructure. No vendor lock-in, complete control over your systems."
+        },
+        {
+          "title": "Enterprise Grade",
+          "description": "Professional-grade security and infrastructure that scales with your business needs."
+        }
+      ]
+    },
+    "faq": {
+      "title": {
+        "line1": "Frequently Asked",
+        "line2": "Questions"
+      },
+      "items": [
+        {
+          "question": "What happens after the one-time installation?",
+          "answer": "After installation, you own and control the entire system. We provide documentation and initial support, but there are no ongoing fees. You can manage, modify, or expand the system as needed."
+        },
+        {
+          "question": "Do you provide ongoing support?",
+          "answer": "We offer optional support contracts for ongoing maintenance, updates, and technical assistance. However, our systems are designed to be self-sufficient after installation."
+        },
+        {
+          "question": "Can I customize the services to my specific needs?",
+          "answer": "Absolutely! We can customize any service or create entirely custom solutions. Contact us to discuss your specific requirements and get a tailored quote."
+        },
+        {
+          "question": "What infrastructure do I need?",
+          "answer": "Most services can be deployed on a single server or VPS. We'll assess your needs during consultation and recommend the appropriate infrastructure setup."
+        },
+        {
+          "question": "How long does installation take?",
+          "answer": "Most individual services take 1-3 days to deploy. Larger packages may take 1-2 weeks depending on complexity and customization requirements."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": {
+        "line1": "Ready to Own Your",
+        "line2": "Infrastructure?"
+      },
+      "subtitle": "Let's discuss which package best fits your security and infrastructure needs. Get started today.",
+      "buttons": {
+        "primary": "View All Services",
+        "secondary": "Schedule Consultation"
+      }
+    }
+  },
+
+  "PricingServices": {
+    "individual": [
+      {
+        "name": "Private Cloud Workspace",
+        "description": "Secure file collaboration with Nextcloud"
+      },
+      {
+        "name": "Unified Identity System",
+        "description": "Centralized authentication with Authentik"
+      },
+      {
+        "name": "Remote Access Gateway",
+        "description": "Browser-based remote desktop access"
+      },
+      {
+        "name": "Infrastructure Hardening",
+        "description": "Security-focused system configuration"
+      },
+      {
+        "name": "Self-hosted Mail Server",
+        "description": "Complete email solution with anti-spam"
+      },
+      {
+        "name": "Virtual Workspace Deployment",
+        "description": "Browser-accessible VM environments"
+      },
+      {
+        "name": "Zero Trust Security Configuration",
+        "description": "Policy-driven access control"
+      }
+    ],
+    "packages": [
+      {
+        "name": "Starter Secure Stack",
+        "description": "Essential cloud and email infrastructure for small teams",
+        "includes": ["Private Cloud Workspace", "Self-hosted Mail Server"],
+        "features": [
+          "Nextcloud file collaboration",
+          "Secure email server",
+          "Basic security setup",
+          "Documentation included"
+        ]
+      },
+      {
+        "name": "Team Access Kit",
+        "description": "Perfect for teams needing secure remote access",
+        "includes": ["Cloud Workspace", "Remote Access Gateway"],
+        "features": [
+          "File collaboration platform",
+          "Remote desktop access",
+          "Browser-based connectivity",
+          "Team management tools"
+        ]
+      },
+      {
+        "name": "Privacy Pro Package",
+        "description": "Comprehensive privacy and security solution",
+        "includes": [
+          "Cloud Workspace",
+          "Remote Access",
+          "Identity System",
+          "Zero Trust Security"
+        ],
+        "features": [
+          "Complete privacy stack",
+          "Zero trust architecture",
+          "Identity management",
+          "Secure remote access",
+          "Advanced security policies"
+        ]
+      },
+      {
+        "name": "Full Ownership Suite",
+        "description": "Complete infrastructure independence",
+        "includes": [
+          "All Services",
+          "Cloud + Mail + Identity + Access + Hardening + Zero Trust"
+        ],
+        "features": [
+          "Every service included",
+          "Complete infrastructure",
+          "Maximum security",
+          "Full data ownership",
+          "Enterprise-grade setup"
+        ]
+      },
+      {
+        "name": "Deploy and Train Package",
+        "description": "Full suite plus comprehensive administrator training",
+        "includes": [
+          "Full Ownership Suite",
+          "3-hour Live Training for Administrators"
+        ],
+        "features": [
+          "Everything in Full Ownership",
+          "3 hours live training",
+          "Administrator certification",
+          "Best practices guide",
+          "Ongoing support guidance"
+        ]
+      }
+    ]
+  }
+}
