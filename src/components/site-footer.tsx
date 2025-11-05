@@ -98,7 +98,7 @@ const Footer = () => {
   }, []);
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "contact@vanhard.com" },
+    { icon: Mail, label: "Email", value: "info@vanhard.com" },
     { icon: Phone, label: "Phone", value: "+1 (216) 272-1651" },
     {
       icon: MapPin,
@@ -276,11 +276,9 @@ const Footer = () => {
                 </button>
               </div>
             </div>
-            
           </div>
-          
         </div>
-     {/* Bottom Section */}
+        {/* Bottom Section */}
         <div ref={bottomRef} className="border-t border-gray-600/50 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-slate-400 text-base text-center md:text-left">
@@ -308,7 +306,6 @@ const Footer = () => {
             </div>
           </div>
         </div>
-   
       </div>
     </footer>
   );

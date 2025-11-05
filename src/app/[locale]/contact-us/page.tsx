@@ -39,7 +39,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      primary: "contact@vanhard.com",
+      primary: "info@vanhard.com",
       secondary: "Response within 24 hours",
       color: "from-blue-500 to-blue-600",
       hoverColor: "hover:from-blue-600 hover:to-blue-700",

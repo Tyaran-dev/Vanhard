@@ -172,7 +172,7 @@ export default function FloatingContact() {
                 <h4 className="font-semibold text-slate-200 group-hover:text-blue-700 transition-colors">
                   Email Us
                 </h4>
-                <p className="text-sm text-slate-200">contact@vanhard.com</p>
+                <p className="text-sm text-slate-200">info@vanhard.com</p>
               </div>
               <Send className="w-4 h-4 text-gray-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all duration-300" />
             </button>
